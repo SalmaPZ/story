@@ -1,0 +1,9 @@
+Characters:
+Lion
+Tiger
+Fox
+Rabbit
+Cat
+Dog
+Cow
+Monkey
